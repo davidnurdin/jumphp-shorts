@@ -1,3 +1,6 @@
+> **⚠️ This repository has moved to [https://git.jumphp.net/jumphp/jumphp-shorts](https://git.jumphp.net/jumphp/jumphp-shorts)** — it is archived here (read-only) and no longer updated.
+> **⚠️ Ce dépôt a déménagé sur [https://git.jumphp.net/jumphp/jumphp-shorts](https://git.jumphp.net/jumphp/jumphp-shorts)** — il est archivé ici (lecture seule) et n'est plus mis à jour.
+
 # jumphp/shorts
 
 Vertical videos (TikTok, YouTube Shorts, Reels) made from a JumPHP scene: each collision plays the next note of a
